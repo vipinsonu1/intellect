@@ -1,4 +1,4 @@
-# Sunshine Primary School Website
+# Intellect National Academy Website
 
 This is a simple static website for a primary school, ready to be deployed on GitHub Pages or Netlify.
 
